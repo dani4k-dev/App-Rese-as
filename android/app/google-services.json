@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "421956434706",
+    "firebase_url": "https://ejercicio2-5b9d0-default-rtdb.firebaseio.com",
+    "project_id": "ejercicio2-5b9d0",
+    "storage_bucket": "ejercicio2-5b9d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421956434706:android:a3f7e93b4a9e41295a51cb",
+        "android_client_info": {
+          "package_name": "com.mycompany.ejercicio2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaL_bR3Vc4Sm1tss_IZvMfE0ciI_ERh8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421956434706:android:604f16f355f8eff25a51cb",
+        "android_client_info": {
+          "package_name": "com.mycompany.reviews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaL_bR3Vc4Sm1tss_IZvMfE0ciI_ERh8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
