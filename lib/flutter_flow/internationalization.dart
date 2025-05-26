@@ -189,7 +189,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Reseñas de videjuegos pero primero hay que crear una cuenta . . .',
       'en': '',
     },
-    '16ykax07': {
+    'pgde7j4t': {
       'es': 'Email',
       'en': '',
     },
@@ -217,7 +217,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'Da click aqui.',
       'en': '',
     },
-    'n9rvnu71': {
+    'qxx7oqse': {
       'es': 'Home',
       'en': '',
     },
@@ -272,7 +272,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'es': 'El usuario que compartio esta reseña fue:',
       'en': '',
     },
-    'esq995ed': {
+    'hiztji3c': {
       'es': 'Home',
       'en': '',
     },

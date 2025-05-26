@@ -1,4 +1,4 @@
-# Reviews
+# PlayRate
 
 A new Flutter project.
 

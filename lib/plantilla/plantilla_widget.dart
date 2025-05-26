@@ -80,7 +80,7 @@ class _PlantillaWidgetState extends State<PlantillaWidget> {
                 SliverAppBar(
                   pinned: true,
                   floating: false,
-                  backgroundColor: Color(0xFF399BEF),
+                  backgroundColor: Color(0xFFA176EC),
                   iconTheme: IconThemeData(
                       color: FlutterFlowTheme.of(context).secondary),
                   automaticallyImplyLeading: true,
